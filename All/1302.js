@@ -1,9 +1,3 @@
-/*
- * @lc app=leetcode id=1302 lang=javascript
- *
- * [1302] Deepest Leaves Sum
- */
-
 // @lc code=start
 /**
  * Definition for a binary tree node.
